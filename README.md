@@ -1,6 +1,6 @@
 # Primer-API-REST
 **API-REST realizada con Spring Boot para poder realizar mejores practicas y sin perder la flexibilidad**
-* **En el proyecto se utlizo:**
+# En el proyecto se utlizo:
 * Maven para facilitar el proyecto y poder utilizar librerias de terceros como JPA,Hibernate,Lombok,etc.
 * JPA para traductir los objetos a tabla y visiversa usando el mecanismo de anotaciones.
 * Hbernate implementacion de JPA para falicitar el mapeo de objetos de atributos entre una base de datos relacional tradicional y el modelo de objetos de la aplicacion.
